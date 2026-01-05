@@ -2,6 +2,10 @@
 
 A collection of C# learning projects demonstrating fundamental programming concepts and practical applications.
 
+## 📚 Resources
+
+For a comprehensive guide and detailed explanations, check out the [Complete Guide to C# Mastery](https://tremendous-ant-c4d.notion.site/A-Complete-Guide-to-C-Mastery-261372ab327e800087b0f9d49bcedcd7).
+
 ## 📋 Projects Overview
 
 ### 1. SyntaxAndDataTypes
