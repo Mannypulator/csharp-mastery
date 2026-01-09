@@ -15,7 +15,7 @@ bool isDigit = int.TryParse(input, out int year);
 
 if (isDigit)
 {
-    if ((year % 4 == 0 && year % 100 == 0) || year % 400 != 0)
+    if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
     {
         System.Console.WriteLine($"{year} is a LEAP year.");
     }
